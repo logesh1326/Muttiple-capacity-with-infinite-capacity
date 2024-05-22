@@ -18,12 +18,19 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-
+![image](https://github.com/logesh1326/Muttiple-capacity-with-infinite-capacity/assets/153622874/6147dfa7-7fcc-4916-9616-1fa8d823550b)
+![image](https://github.com/logesh1326/Muttiple-capacity-with-infinite-capacity/assets/153622874/e3bc2156-1860-4d49-9ef7-62149de0d4f8)
 
 ## Program
-
+````
+Developed By: LOGESH S
+Register No: 2305001014
+````
+![image](https://github.com/logesh1326/Muttiple-capacity-with-infinite-capacity/assets/153622874/c8f26954-95ef-4bff-a62d-06d9ceba155c)
 
 ## Output :
+![image](https://github.com/logesh1326/Muttiple-capacity-with-infinite-capacity/assets/153622874/c66c3f59-fa55-485e-9ffc-f2a286daab26)
+
 
 ## Result : 
-
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
